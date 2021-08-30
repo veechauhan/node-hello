@@ -1,5 +1,6 @@
 # Node Hello World
 learning the step
+CI/CD assignment
 
 Simple node.js app that servers "hello world"
 
